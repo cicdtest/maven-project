@@ -1,1 +1,1 @@
-Hello, World! This automatically gets updated I commit to git
+Hello, World! I have successfully set up a build pipeline! 
